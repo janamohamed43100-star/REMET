@@ -27,3 +27,4 @@ Our platform serves two main purposes:
 * Habiba Mohamed
 * Islam Alaa
 * Fatma Mohamed
+* Hamza Wael
